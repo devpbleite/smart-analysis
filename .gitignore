@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente — NUNCA versionar
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Banco de dados DuckDB (gerado localmente via scripts)
+*.duckdb
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

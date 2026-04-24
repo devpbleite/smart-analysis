@@ -1,0 +1,23 @@
+# =============================================================================
+# Dependências do Projeto — Agente de Auditoria de Estoque
+# =============================================================================
+
+# Core
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9
+faker==24.11.0
+
+# LangChain
+langchain==0.3.25
+langchain-community==0.3.21
+langchain-groq==1.1.2
+
+# LLM Provider
+groq==0.37.1
+
+# SQLAlchemy (requerido pelo LangChain SQL)
+sqlalchemy==2.0.40
+
+# Analítico (OLAP)
+duckdb
+duckdb-engine
