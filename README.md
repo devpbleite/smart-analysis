@@ -25,9 +25,9 @@ A arquitetura do projeto espelha esse objetivo de ser agnóstico e de fácil exp
 ## Galeria do Projeto
 
 <div align="center">
-  <img src="print_home.png" alt="Interface Simplificada" width="70%" style="margin-bottom: 20px;">
+  <img src="print_home.png" alt="Interface Simplificada" width="70%">
 
-  <img src="print_chat.png" alt="Dados Retornados da Busca" width="70%">
+  <br><br> <img src="print_chat.png" alt="Dados Retornados da Busca" width="70%">
 </div>
 
 ## Como Rodar o Projeto (Setup)
