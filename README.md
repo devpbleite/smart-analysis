@@ -18,9 +18,9 @@ A arquitetura do projeto espelha esse objetivo de ser agnóstico e de fácil exp
 - **Node.js** para lidar com os pacotes e execução do ambiente visual em servidor do cliente.
 
 **Back-end (A Inteligência):**
-- **Python** e **FastAPI** (Uvicorn) entregando uma orquestração muito ágil nas conexões.
+- **Python** e **FastAPI** (Uvicorn) entregando uma orquestração rápida nas conexões.
 - **DuckDB** para gerenciamento robusto de consultas analíticas pesadas feitas no ambiente local.
-- **Groq API (LLMs)** como a peça central que possibilita o "Text-to-SQL" — o cérebro que entende linguagem humana e traduz perfeitamente para comandos de resgate no banco.
+- **Groq API (LLMs)** como a peça central que possibilita o "Text-to-SQL" — o cérebro que entende linguagem humana e traduz para comandos de consulta no banco.
 
 ## Galeria do Projeto
 
@@ -64,7 +64,7 @@ npm run dev
 ```
 Dê um clique no link que surgir no terminal (geralmente `http://localhost:5173`).
 
-> **Usuário Teste:** Na pequena tela de acesso inicial, você pode usar as credenciais: login `admin` e senha `admin`.
+> **Usuário Teste:** Na tela de acesso inicial, você pode usar as credenciais: login `admin` e senha `admin`.
 
 ## Conclusão
-O InSight prova que a complexidade da extração de dados estruturados pode — e deve — ser ocultada atrás de boas camadas de IA. Muito além de monitorar o movimento da logística local, este é um **caso consolidado e escalável** de como ferramentas tecnológicas corretas removem barreiras de interpretação. Ao adotar esse formato limpo, validamos um caminho poderoso para impulsionar qualquer equipe de negócio rumo a uma gestão verdadeiramente guiada por dados.
+O InSight prova que a complexidade da extração de dados estruturados pode e deve ser ocultada atrás de boas camadas de IA. Muito além de monitorar o movimento da logística local, este é um **caso consolidado e escalável** de como ferramentas tecnológicas corretas removem barreiras de interpretação. Ao adotar esse formato limpo, validamos um caminho para impulsionar qualquer equipe de negócio com uma gestão verdadeiramente guiada por dados.
