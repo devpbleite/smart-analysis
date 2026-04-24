@@ -25,4 +25,5 @@ def get_database() -> SQLDatabase:
         include_tables=ALLOWED_VIEWS,
         sample_rows_in_table_info=settings.db_sample_rows,
         view_support=True,
+        engine_args={"connect_args": {"read_only": True}},
     )
