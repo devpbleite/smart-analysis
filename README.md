@@ -25,9 +25,9 @@ A arquitetura do projeto espelha esse objetivo de ser agnóstico e de fácil exp
 ## Galeria do Projeto
 *(Área para incluir as fotos e comprovar a usabilidade leve da ferramenta)*
 
-![Interface Simplificada](<img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/0d8e4632-1dd0-4a2a-aef6-f76fb85e0a5a" />
+![Interface Simplificada](<img src="https://github.com/user-attachments/assets/0d8e4632-1dd0-4a2a-aef6-f76fb85e0a5a" alt="Interface Simplificada" width="100%">
 )
-![Dados Retornados da Busca](<img width="1913" height="901" alt="image" src="https://github.com/user-attachments/assets/2cf5d274-3102-4de6-a9bb-89b82088a4e2" />
+![Dados Retornados da Busca](<img src="https://github.com/user-attachments/assets/2cf5d274-3102-4de6-a9bb-89b82088a4e2" alt="Dados Retornados da Busca" width="100%">
 )
 
 ## Como Rodar o Projeto (Setup)
