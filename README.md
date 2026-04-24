@@ -25,11 +25,10 @@ A arquitetura do projeto espelha esse objetivo de ser agnóstico e de fácil exp
 ## Galeria do Projeto
 *(Área para incluir as fotos e comprovar a usabilidade leve da ferramenta)*
 
-![Interface Simplificada](./caminho-da-imagem-1.png)
-*(Sugestão: Adicione aqui a interface de conversa)*
-
-![Dados Retornados da Busca](./caminho-da-imagem-2.png)
-*(Sugestão: Adicione aqui uma captura da IA trazendo métricas traduzidas para a tela.)*
+![Interface Simplificada](<img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/0d8e4632-1dd0-4a2a-aef6-f76fb85e0a5a" />
+)
+![Dados Retornados da Busca](<img width="1913" height="901" alt="image" src="https://github.com/user-attachments/assets/2cf5d274-3102-4de6-a9bb-89b82088a4e2" />
+)
 
 ## Como Rodar o Projeto (Setup)
 
