@@ -23,10 +23,12 @@ A arquitetura do projeto espelha esse objetivo de ser agnóstico e de fácil exp
 - **Groq API (LLMs)** como a peça central que possibilita o "Text-to-SQL" — o cérebro que entende linguagem humana e traduz perfeitamente para comandos de resgate no banco.
 
 ## Galeria do Projeto
-*(Área para incluir as fotos e comprovar a usabilidade leve da ferramenta)*
 
-![Interface Simplificada](print_home.png)
-![Dados Retornados da Busca](print_chat.png)
+<div align="center">
+  <img src="print_home.png" alt="Interface Simplificada" width="70%" style="margin-bottom: 20px;">
+
+  <img src="print_chat.png" alt="Dados Retornados da Busca" width="70%">
+</div>
 
 ## Como Rodar o Projeto (Setup)
 
