@@ -39,7 +39,7 @@ Crie um ambiente virtual Python para isolar sua instalação:
 ```bash
 cd backend
 python -m venv venv
-venv\Scripts\activate  # Comando para Windows (Se usar Linux/Mac: source venv/bin/activate)
+source venv/Scripts/activate  # Comando para Windows (Se usar Linux/Mac: source venv/bin/activate)
 pip install -r requirements.txt
 ```
 
