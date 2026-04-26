@@ -48,6 +48,7 @@ Gere a estrutura da base analítica que será lida rodando os dois roteiros ráp
 ```bash
 python scripts/setup_duckdb.py
 python scripts/seed_duckdb.py
+python scripts/elt_duckdb.py
 ```
 
 ### 3. Ligando a Interface com o Banco
