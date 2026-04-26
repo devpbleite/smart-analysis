@@ -69,4 +69,4 @@ Dê um clique no link que surgir no terminal (geralmente `http://localhost:5173`
 > **Usuário Teste:** Na tela de acesso inicial, você pode usar as credenciais: login `admin` e senha `admin`.
 
 ## Conclusão
-O InSight prova que a complexidade da extração de dados estruturados pode e deve ser ocultada atrás de boas camadas de IA. Muito além de monitorar o movimento da logística local, este é um caso consolidado e escalável de como ferramentas tecnológicas corretas removem barreiras de interpretação. Ao adotar esse formato limpo, validamos um caminho para impulsionar qualquer equipe de negócio com uma gestão verdadeiramente guiada por dados.
+O InSight prova que a complexidade da extração de dados estruturados pode e deve ser ocultada atrás de uma base estruturada com propósito. Muito além de monitorar o movimento da logística local, este é um caso consolidado e escalável de como ferramentas tecnológicas corretas removem barreiras de interpretação. Ao adotar esse formato limpo, validamos um caminho para impulsionar qualquer equipe de negócio com uma gestão verdadeiramente guiada por dados.
