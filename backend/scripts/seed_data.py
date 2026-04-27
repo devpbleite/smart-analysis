@@ -1,12 +1,6 @@
 """
 Popula o banco com dados fictícios para desenvolvimento e testes.
 Utiliza Faker com locale pt_BR para nomes realistas.
-
-Uso:
-    python scripts/seed_data.py
-
-Requer que o banco já tenha sido criado via:
-    python scripts/setup_db.py
 """
 
 import os
