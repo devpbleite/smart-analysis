@@ -1,10 +1,3 @@
-"""
-Entrypoint da aplicação.
-
-Composição de dependências (Dependency Composition Root):
-todos os objetos são criados aqui e injetados nos módulos.
-"""
-
 from config.settings import settings  
 from core.database import get_database
 from core.llm import get_llm
