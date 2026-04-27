@@ -2,12 +2,6 @@
 Cria (ou recria) toda a estrutura do banco:
 - Tabelas dimensão e fato
 - View analítica de auditoria
-
-Execute apenas uma vez para inicializar o ambiente,
-ou quando quiser resetar o banco completamente.
-
-Uso:
-    python scripts/setup_db.py
 """
 
 import os
